@@ -1,4 +1,4 @@
-readme_basic = """# t13nmy-riscv-tapeout
+"""# t13nmy-riscv-tapeout
 
 This repository documents my journey in the **RISC-V Tapeout project**.  
 It contains the work I do as part of learning, experimenting, and implementing various steps of the RISC-V SoC design and tapeout process.
